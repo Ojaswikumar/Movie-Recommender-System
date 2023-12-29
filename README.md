@@ -137,6 +137,7 @@ def recommend(movie):
 recommend('Avatar')
 ```
 
+![Final Output](https://github.com/Ojaswikumar/Movie-Recommender-System/blob/main/Screenshot%202023-12-29%20151805.png)
 
 
 
